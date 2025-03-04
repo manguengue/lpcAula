@@ -24,5 +24,4 @@ public class LpcAula {
         // Se passar todas as comparações, encontramos "SELECT"
         return true;
     }
-
 } 
