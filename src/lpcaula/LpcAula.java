@@ -1,6 +1,6 @@
 public class LpcAula {
 
-    // Função para verificar se "SELECT" aparece na string de forma insensível a maiúsculas e minúsculas
+    // Função para verificar se "SELECT" aparece na string de forma insensível a maiúsculas e minúsculas
     public static boolean verificaSelect(String texto) {
         // A palavra "SELECT" tem 6 caracteres
         String palavra = "SELECT";
@@ -21,7 +21,7 @@ public class LpcAula {
             }
         }
         
-        // Se passar todas as comparações, encontramos "SELECT"
+        // Se passar todas as comparações, encontramos "SELECT"
         return true;
     }
 } 
